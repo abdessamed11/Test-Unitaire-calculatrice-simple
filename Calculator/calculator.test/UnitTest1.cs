@@ -10,7 +10,7 @@ namespace calculator.test
         public void TestingAdd()
         {
             Calculators operation = new Calculators();
-           double resultat = operation.Add(50, 5);
+           double resultat = operation.Addition(50, 5);
             Assert.AreEqual(resultat, 55);
         }
 
@@ -19,7 +19,7 @@ namespace calculator.test
         {
          
             Calculators operation = new Calculators();
-            double resultat = operation.Substract(34, 3);
+            double resultat = operation.Soustraction(34, 3);
            Assert.AreEqual(resultat, 31);
         }
 
@@ -28,7 +28,7 @@ namespace calculator.test
         {
 
             Calculators operation = new Calculators();
-            double resultat = operation.divide(10, 2);
+            double resultat = operation.Division(10, 2);
            Assert.AreEqual(resultat, 5);
         }
 
@@ -38,7 +38,7 @@ namespace calculator.test
         {
 
             Calculators operation = new Calculators();
-            double resultat = operation.Multiply(7, 100);
+            double resultat = operation.Multiplication(7, 100);
             Assert.AreEqual(resultat, 700);
         }
     }

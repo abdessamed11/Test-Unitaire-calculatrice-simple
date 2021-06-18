@@ -6137,11 +6137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\calculator.test\\calculator.test.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\calculator.test\\calculator.test.csproj",
       "projectName": "calculator.test",
-      "projectPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\calculator.test\\calculator.test.csproj",
+      "projectPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\calculator.test\\calculator.test.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\calculator.test\\obj\\",
+      "outputPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\calculator.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6164,8 +6164,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\Calculator\\Calculator.csproj"
+            "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\Calculator\\Calculator.csproj"
             }
           }
         }

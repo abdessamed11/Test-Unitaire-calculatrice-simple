@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Udrno0u2mORwtrAHhAnHcHREIYvTIUaUUtS4TQ1hdj7ZHfYd5oPGnQHl9MvpoYQoVDUbnQrgOhIWecuhNlwcAw==",
+  "dgSpecHash": "HRJ+M93trykvkb13cCam9U/JFM1H2se4WCeDNmpRvJzMalgJQtvTkxdwPu+Kc5QX76/UHC+ajZWMtiHYrSwwpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\calculator.test\\calculator.test.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\calculator.test\\calculator.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

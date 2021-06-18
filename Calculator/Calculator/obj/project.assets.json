@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Unit.Testing.Calculator\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Administrateur\\OneDrive\\Bureau\\Test-Unitaire-calculatrice-simple\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
